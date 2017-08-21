@@ -767,6 +767,14 @@ ol#careerBuilder {
     border-color: #F7939C;
   }
 
+  #searching button .button-icon {
+    color: #F7939C;
+  }
+
+  #searching .section-level-buttons button .button-icon {
+    color: #F36571;
+  }
+
   #searching .subsection, #searching button,
   #searching .section-level-buttons button:hover {
     background: #F7939C;
