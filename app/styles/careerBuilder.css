@@ -62,6 +62,7 @@ ol#careerBuilder {
 
 .no-js .trigger-link, .no-js .trigger-link :hover {
   text-decoration: none !important;
+
   color: black !important;
  }
 
@@ -771,10 +772,12 @@ ol#careerBuilder {
     color: #F7939C;
   }
 
+
   #searching .section-level-buttons button .button-icon {
     color: #F36571;
   }
   
+
   #searching .subsection, #searching button,
   #searching .section-level-buttons button:hover {
     background: #F7939C;
