@@ -1,3 +1,4 @@
+
 #careerBuilder {
   width: 100%;
   font-size: 100%;
@@ -59,9 +60,9 @@ ol#careerBuilder {
   text-decoration: underline;
 }
 
-.no-js .trigger-link, .no-js .trigger-link:hover {
+.no-js .trigger-link, .no-js .trigger-link :hover {
   text-decoration: none !important;
-  font-weight: normal !important;
+
   color: black !important;
  }
 
@@ -766,14 +767,16 @@ ol#careerBuilder {
   #searching .section-level-buttons button {
     border-color: #F7939C;
   }
-
+  
   #searching button .button-icon {
     color: #F7939C;
   }
 
+
   #searching .section-level-buttons button .button-icon {
     color: #F36571;
   }
+  
 
   #searching .subsection, #searching button,
   #searching .section-level-buttons button:hover {
